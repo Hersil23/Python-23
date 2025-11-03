@@ -129,3 +129,9 @@
 
 # for student in students:
 #     print(f"Student Name: {student['name']}, Age: {student['age']}")
+
+
+# Functions: Defining and calling functions
+
+def saludar():
+    print("¡Hola! ¿Cómo estás?")
